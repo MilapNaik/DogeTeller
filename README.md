@@ -1,7 +1,7 @@
 DogeTeller
 ==========
 
-Goofy project showcasing HTML, CSS, and Javascript ability
+Goofy project showcasing Python, HTML, CSS, and Javascript ability
 
 Made by Emory University seniors Milap Naik and Dave Stess
 
